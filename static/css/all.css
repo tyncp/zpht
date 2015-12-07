@@ -26,3 +26,12 @@ img{
 	border: 0;
 	vertical-align: middle;
 }
+
+.img_header {
+	margin: 40 0 0 0;
+}
+
+.content {
+	line-height: 1.8em;
+	word-spacing: 0.05em;
+}
