@@ -132,6 +132,7 @@ article blockquote{line-height:1.6em; margin:1em 0 1em 1.5em; border-left:2px so
 	line-height: 1.8em;
 }
 .page-single article h1:first-child,
+.page-single article h3:first-child,
 .page-single article p.meta{
 	text-align: center;
 }
